@@ -1,0 +1,91 @@
+*{  text-align: center;
+
+}
+
+body{background-color: #CFB997;
+
+}
+     
+/* Header-Start */
+
+.header{
+    height:100%;
+}
+
+.header-h1{ 
+    font-size: large;
+    display: inline;
+    color:#4E6C50;
+    font-family: 'Courier New', Courier, monospace;
+}
+.headlist {
+    font-family: 'Courier New', Courier, monospace;
+}
+.headlist a{
+    color: #fff;
+    text-decoration: none;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ a { text-decoration: none;
+    color:#fff;
+}
+ a:hover {
+    color:greenyellow
+}
+
+    /* Header-End */
+
+    /* Content-Start */
+
+ .section-header {
+        color:#61764B ;
+        font-family:'Courier New', Courier, monospace;
+
+ }
+.info-header {
+        font-family:'Times New Roman', Times, serif;
+ }
+.info {
+        margin-bottom:25px;
+        font-size: large;
+ }
+ .site-products-header {
+       color:#61764B ;
+       font-size: larger;
+       font-family: 'Courier New', Courier, monospace;
+ }
+.product {
+            margin: auto;
+}
+.product-list li{
+            color:#61764B;
+            font-size: large;
+            list-style-position:inside;
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+        
+}
+.resim {
+            border: 5px solid #61764B;
+ }
+.paragraf {
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            color:#A47E3B;
+            font-weight: bold;
+ }
+.fiyat {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: #61764B;
+        font-weight:lighter;
+
+}
+ .başlık {
+        color:#61764B;
+        font-weight: bold;
+ }
+.about-us {
+        font-family:'Times New Roman', Times, serif;
+        font-size: large;
+}
+/* Content-End */
